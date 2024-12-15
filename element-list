@@ -1,0 +1,10 @@
+eduni.distributions
+simu
+simu.controller
+simu.dao
+simu.datasource
+simu.framework
+simu.model
+simu.model.cartypes
+simu.model.servicepoints
+simu.view
